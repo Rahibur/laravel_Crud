@@ -8,7 +8,9 @@
 </p>
 
 ## About Project
-![Screenshot (298)](https://user-images.githubusercontent.com/79588712/209400036-1583fd06-12f8-493a-b10a-643718507f61.png)
+![Screenshot (301)](https://user-images.githubusercontent.com/79588712/209400534-0f1dae5e-d3cd-46a3-bde9-0cdf283edbeb.png)
+![Screenshot (302)](https://user-images.githubusercontent.com/79588712/209400544-faf09b0f-76e5-4e43-88f2-3fbda8d02924.png)
+<br/>
 [![Video link of the project ](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)
 
 ## About Laravel
