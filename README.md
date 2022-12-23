@@ -15,7 +15,7 @@ This is a laravel Crud project. CRUD means **CREAT,READ,UPDATE,DELETE** here all
 **Besides user can view their post.**
 
 ## Video Link(FROM GOOGLE DRIVE)
-[![ Video Link(FROM GOOGLE DRIVE)](![Screenshot (301)](https://user-images.githubusercontent.com/79588712/209400534-0f1dae5e-d3cd-46a3-bde9-0cdf283edbeb.png))](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)
+[![ Video Link(FROM GOOGLE DRIVE)](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)
 
 
 ## About Laravel
