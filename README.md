@@ -1,5 +1,4 @@
 <p align="center"><img src="https://miro.medium.com/max/808/0*QgSukQDP3VP036Ny" width="400"></p>
-
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
@@ -11,7 +10,11 @@
 ![Screenshot (301)](https://user-images.githubusercontent.com/79588712/209400534-0f1dae5e-d3cd-46a3-bde9-0cdf283edbeb.png)
 ![Screenshot (302)](https://user-images.githubusercontent.com/79588712/209400544-faf09b0f-76e5-4e43-88f2-3fbda8d02924.png)
 <br/>
-[![Video link of the project ](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)
+
+This is a laravel Crud project. CRUD means **CREAT,READ,UPDATE,DELETE** here all these features are added with login and Register system. **User can also upload images.**
+**Besides user can view their post.**
+
+
 
 ## About Laravel
 
@@ -83,4 +86,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# laravel_crud
+
