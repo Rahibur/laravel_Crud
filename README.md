@@ -8,7 +8,7 @@
 </p>
 
 ## About Project
-<p align="center"><img src="C:\Users\COMPUTER WORLD\Pictures\Camera Roll\Screenshots" width="400"></p>
+![Screenshot (298)](https://user-images.githubusercontent.com/79588712/209400036-1583fd06-12f8-493a-b10a-643718507f61.png)
 [![Video link of the project ](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)
 
 ## About Laravel
