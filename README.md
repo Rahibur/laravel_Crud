@@ -14,8 +14,9 @@
 This is a laravel Crud project. CRUD means **CREAT,READ,UPDATE,DELETE** here all these features are added with login and Register system. **User can also upload images.**
 **Besides user can view their post.**
 
-## Video Link(FROM GOOGLE DRIVE)
-[[ Video Link(FROM GOOGLE DRIVE)](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)
+## Video Link
+**click the link below to see project overview**
+(https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)
 
 
 ## About Laravel
