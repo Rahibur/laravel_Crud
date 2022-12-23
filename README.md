@@ -8,6 +8,7 @@
 </p>
 
 ## About Project
+<p align="center"><img src="https://miro.medium.com/max/808/0*QgSukQDP3VP036Ny" width="400"></p>
 [![About Project](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)](https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)
 
 ## About Laravel
