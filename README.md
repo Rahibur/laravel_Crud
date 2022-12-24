@@ -19,6 +19,9 @@ This is a laravel Crud project. CRUD means **CREAT,READ,UPDATE,DELETE** here all
 **click the link below to see project overview**<br/>
 (https://drive.google.com/file/d/1G_34eQ1i8UghTLDCW22rPngby4_Fditi/view?usp=share_link)
 
+## Documentation of making the project
+**Here i have added a documentation link of the project by this system i dveloped this project**
+(https://docs.google.com/document/d/e/2PACX-1vSs8RL_Enp6v3ifzaHsW0U_dtkQREtpB9fZsSASBWZKqn2g-dwz9dkSp-W5ugR96AjOe7XTnhSMUMyz/pub)
 
 ## About Laravel
 
