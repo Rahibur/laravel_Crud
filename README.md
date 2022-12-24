@@ -1,5 +1,4 @@
-<p align="center"><img src="![image](https://user-images.githubusercontent.com/79588712/209440703-def4b7c9-ab89-41cf-a408-3e7336f710d4.png)
-" width="400"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/55/ba/85/55ba85a72e0cdc0ba6039519802de179.jpg" width="400"></p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
