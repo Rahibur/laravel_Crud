@@ -12,7 +12,7 @@
 <br/>
 
 This is a laravel Crud project. CRUD means **CREAT,READ,UPDATE,DELETE** here all these features are added with login and Register system. **User can also upload images.**
-**Besides user can view their post.** We have **Search** option to search any post by filtering.User can also edit post by clicking **EDIT** button,Can delete post by Clicking **DELETE**button.
+**Besides user can view their post.** We have **Search** option to search any post by filtering.User can also edit post by clicking **EDIT** button,Can delete post by Clicking **DELETE** button.
 
 ## Video Link
 **click the link below to see project overview**<br/>
