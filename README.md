@@ -1,4 +1,4 @@
-<p align="center"><img src="https://focuslab-cms.imgix.net/shared/5-80.jpg?crop=focalpoint&fp-debug=false&fp-x=0.5&fp-y=0.5&ixlib=php-3.1.0&signed=1&width=1216&s=e8d9930f6e1a907a7d1723eda91fde8b" width="400"></p>
+<p align="center"><img src="https://cloudonhire.com/wp-content/uploads/2020/01/Laravel_Framework-copy.png" width="400"></p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
