@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cloudonhire.com/wp-content/uploads/2020/01/Laravel_Framework-copy.png" width="400"></p>
+<p align="center"><img src="https://globify.in/wp-content/uploads/2019/12/laravel-logo-1.png" width="400"></p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
