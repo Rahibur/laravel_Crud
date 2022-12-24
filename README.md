@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/55/ba/85/55ba85a72e0cdc0ba6039519802de179.jpg" width="400"></p>
+<p align="center"><img src="[https://i.pinimg.com/originals/55/ba/85/55ba85a72e0cdc0ba6039519802de179.jpg](https://focuslab-cms.imgix.net/shared/5-80.jpg?crop=focalpoint&fp-debug=false&fp-x=0.5&fp-y=0.5&ixlib=php-3.1.0&signed=1&width=1216&s=e8d9930f6e1a907a7d1723eda91fde8b)" width="400"></p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
